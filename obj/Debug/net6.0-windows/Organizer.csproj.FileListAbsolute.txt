@@ -1,0 +1,16 @@
+C:\Users\domen\Documents\Programas\Organizador de Tiempo\Organizer\obj\Debug\net6.0-windows\Organizer.Form1.resources
+C:\Users\domen\Documents\Programas\Organizador de Tiempo\Organizer\obj\Debug\net6.0-windows\Organizer.csproj.GenerateResource.cache
+C:\Users\domen\Documents\Programas\Organizador de Tiempo\Organizer\obj\Debug\net6.0-windows\Organizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domen\Documents\Programas\Organizador de Tiempo\Organizer\obj\Debug\net6.0-windows\Organizer.AssemblyInfoInputs.cache
+C:\Users\domen\Documents\Programas\Organizador de Tiempo\Organizer\obj\Debug\net6.0-windows\Organizer.AssemblyInfo.cs
+C:\Users\domen\Documents\Programas\Organizador de Tiempo\Organizer\obj\Debug\net6.0-windows\Organizer.csproj.CoreCompileInputs.cache
+C:\Users\domen\Documents\Programas\Organizador de Tiempo\Organizer\bin\Debug\net6.0-windows\Organizer.exe
+C:\Users\domen\Documents\Programas\Organizador de Tiempo\Organizer\bin\Debug\net6.0-windows\Organizer.deps.json
+C:\Users\domen\Documents\Programas\Organizador de Tiempo\Organizer\bin\Debug\net6.0-windows\Organizer.runtimeconfig.json
+C:\Users\domen\Documents\Programas\Organizador de Tiempo\Organizer\bin\Debug\net6.0-windows\Organizer.dll
+C:\Users\domen\Documents\Programas\Organizador de Tiempo\Organizer\bin\Debug\net6.0-windows\Organizer.pdb
+C:\Users\domen\Documents\Programas\Organizador de Tiempo\Organizer\obj\Debug\net6.0-windows\Organizer.dll
+C:\Users\domen\Documents\Programas\Organizador de Tiempo\Organizer\obj\Debug\net6.0-windows\refint\Organizer.dll
+C:\Users\domen\Documents\Programas\Organizador de Tiempo\Organizer\obj\Debug\net6.0-windows\Organizer.pdb
+C:\Users\domen\Documents\Programas\Organizador de Tiempo\Organizer\obj\Debug\net6.0-windows\Organizer.genruntimeconfig.cache
+C:\Users\domen\Documents\Programas\Organizador de Tiempo\Organizer\obj\Debug\net6.0-windows\ref\Organizer.dll
